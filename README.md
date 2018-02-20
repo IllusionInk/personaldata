@@ -21,10 +21,10 @@ The list below describes the variables and their description in the dataset. Whi
  ##### Qualitative
   - **ride_type**: Describes the type of cycle ride - workout/errand/commute/leisure
   - **ride_nature**: Describes if the ride was a roundtrip (bothways) or a oneway trip
-  - **achievements**: Strava measures the rider's performance in local segments(ections of the road). Achievements highlights when the rider outdoes his previous 3 best attempts (Gold - Personal Record , Silver - Second Best, Bronze - Third Best)
+  - **achievements**: Strava measures the rider's performance in local segments(ections of the road). Achievements highlights when the rider outdoes his previous 3 best attempts (*Gold - Personal Record , Silver - Second Best, Bronze - Third Best*)
   - **upload_type**: How the ride was saved/tracked in Strava - Live(During the ride); Later (Post the ride)
-  - **kudos**: Appreciations given your followers/ friends on Strava
-  - **eateries**: Places where I would stop for breakfast or a small food break.
+  - **kudos**: Appreciations given by your followers/ friends on Strava
+  - **eateries**: Places where I would stop for breakfast or a small food break
   - **highlights**: Interesting events that occured during the ride (Derived from memory.)
 
 
