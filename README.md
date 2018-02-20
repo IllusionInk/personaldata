@@ -2,10 +2,10 @@
 
 > The aim is to generate a layered information visualization based on an aspect from our personal life.  The following repo contains a collated dataset of my cycling rides. The data was gathered from Strava's web app (an app used heavily by cyclists to track several parameters of their ride). 
 
-#### Dataset 
+### Dataset 
 The list below describes the variables and their description in the dataset. While some of these variablse are obtained from the web/mobile app, others are personal annotations to add a layer of qualitative description.
 
-#### Variable Description
+### Variable Description
 
 ##### Quantitative
   - **date**: Date of the ride
@@ -28,6 +28,6 @@ The list below describes the variables and their description in the dataset. Whi
   - **highlights**: Interesting events that occured during the ride (Derived from memory.)
 
 
-#### Sources
-- [Strava web app](https://nodejs.org/) - Ride Statistics tracked via the mobile app.
+### Sources
+- [Strava web app](https://www.strava.com/athlete/training) - Ride Statistics tracked via the mobile app.
 
