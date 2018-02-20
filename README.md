@@ -1,5 +1,5 @@
 # DearData - Cycling
----
+
 > The aim is to generate a layered information visualization based on an aspect from our personal life.  The following repo contains a collated dataset of my cycling rides. The data was gathered from Strava's web app (an app used heavily by cyclists to track several parameters of their ride). 
 
 #### Dataset 
