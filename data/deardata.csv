@@ -1,142 +1,144 @@
-date,day,ride_name,origin,prim_destn,secn_destn(visits_on_way),ride_type,ride_nature,timel(hr:min),distance(kms),speed(kmph),elevation(m),achievements,upload_type,kudos,eateries,highlights
-20/01/2018,Sat,Airport ride,Peenya,Airport ,-,workout,roundtrip,3:29,74.32,21.3,605,"3(1sil,1g,1bro)",Live,4,Airport CCD,Met Office friends along the way
-14/01/2018,Sun,Nandi base ride - return of the jedi,Peenya,Nandi Base,-,workout,roundtrip,4:47,104.11,21.8,789,"13(6g,4sil,3bro)",Live,2,"Indian Paratha Company, A2B",Jan Gran Frondo
-10/01/2018,Wed,Airport ride,Peenya,Airport ,-,workout,roundtrip,3:23,74.08,21.9,571,"5(2g,1sil,2bro)",Live,1,Airport CCD,-
-07/01/2018,Sun,Hessaraghatta lake exploration,Peenya,Hessaraghatta Lake,-,workout,roundtrip,2:32,45.73,18.1,383,12g,Live,7,-,New Route Discovered
-06/01/2018,Sat,Back from the laboratory,BOTS Infantry Road,Peenya,-,errand,oneway,0:46,13.65,17.8,140,1bro,Live,3,-,Cycle repair
-30/12/2017,Sat,Ride to the bike shop,Peenya,BOTS Infantry Road,-,errand,oneway,0:38,11.18,17.7,118,1g,Live,2,-,Cycle repair
-29/12/2017,Fri,Season 2,Peenya,Hebbal Circle,-,workout,roundtrip,1:55,37.39,19.5,385,0,Live,6,-,Resume training after term holidays
-07/10/2017,Sat,Morning training ride,Peenya,Hebbal Circle,-,workout,roundtrip,1:55,39.61,20.7,422,"4(1g,3bro)",Live,,Airlines Hotel,-
-19/09/2017,Tue,Morning brisk ride,Peenya,Hebbal Circle,-,workout,roundtrip,1:35,40,25.3,-,0,Later,1,Airlines Hotel,-
-03/09/2017,Sun,Nandi base ride,Peenya,Nandi Base,-,workout,roundtrip,4:40,96.64,20.7,740,"7(2g,4sil,1bro)",Live,3,"Airport CCD, A2B",First long distance after college begins(NID)
-23/08/2017,Wed,Brisk morning ride,Peenya,MG Road ,-,workout,roundtrip,1:19,32.33,24.6,321,2sil,Live,0,Airlines Hotel,-
-09/08/2017,Wed,Morning brisk ride,Peenya,Hebbal Circle,MG Road,workout,roundtrip,1:36,36.41,22.8,359,"5(2g,2sil,2bro)",,3,-,
-05/08/2017,Sat,Training ride,Peenya,Hebbal Circle,"MG Road,KK road, HMT circle",workout,roundtrip,2:12,47.05,21.4,489,"4(2g,sil)",Live,3,Airlines Hotel,-
-29/07/2017,Sat,Breakfast ride,Peenya,Hebbal Circle,Jalahalli,workout,roundtrip,2:27,54.95,22.4,698,1sil,Live,4,Airlines Hotel,-
-25/07/2017,Tue,New Routes - bfast ride,Peenya,Hebbal Circle,-,workout,roundtrip,1:42,38.99,22.9,398,"2(1g,1sil)",Live,5,Airlines Hotel,First breakfast ride after college begins(NID)
-16/07/2017,Sun,Sunday ride - shifting to new place,JP Nagar,Peenya,-,errand,oneway,1:12,26.56,22.1,236,1sil,Live,5,-,Shifting to  new place
-26/06/2017,Mon,Third wave approach,JP Nagar,Koramangala,-,leisure,oneway,0:45,11.62,15.5,79,"8(5g,3sil)",Live,5,Third Wave Coffee Roasters,New Route Discovered
-20/06/2017,Tue,Evening Ride office,Lavelle Road,JP Nagar,-,commute,oneway,0:42,13.05,18.6,92,0,Live,4,-,-
-20/06/2017,Tue,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:38,11.9,18.8,78,0,Live,2,-,-
-08/06/2017,Thu,Evening office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:48,12.9,16.1,102,0,Live,1,-,-
-08/06/2017,Thu,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:37,11.57,18.8,82,0,Live,2,-,-
-06/06/2017,Tue,Evening office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:52,15.24,17.6,103,0,Live,2,-,-
-06/06/2017,Tue,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:37,11.74,19.0,84,0,Live,5,-,-
-04/06/2017,Sun,Sunday training ride,JP Nagar,Hebbal Circle,Sankey Tank,workout,roundtrip,1:56,45.64,23.6,378,0,Live,6,Airlines Hotel,-
-21/05/2017,Sun,Evening coffee sprint,JP Nagar,Jayanagar 5th block,-,leisure,roundtrip,0:34,10.51,18.5,70,0,Live,3,A2B,-
-21/05/2017,Sun,Sunday bfast ride,JP Nagar,Race Course Road,-,workout,roundtrip,1:51,40.39,21.8,209,3g,Live,2,Airlines Hotel,-
-17/05/2017,Wed,Evening Ride,Lavelle Road,JP Nagar,-,commute,oneway,0:45,14.83,19.8,81,0,Live,2,-,-
-17/05/2017,Wed,Office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:39,12.85,19.8,71,0,Live,2,-,-
-14/05/2017,Sun,Evening coffee sprint,JP Nagar,Jayanagar 5th block,-,leisure,roundtrip,0:44,14.42,19.7,87,0,Live,2,A2B,-
-14/05/2017,Sun,New 50 km PR,JP Nagar,Hebbal Circle,-,workout,roundtrip,1:58,50.21,25.5,291,0,Live,5,Airlines Hotel,new 50km PR
-09/05/2017,Tue,Rain-fed office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:45,15.15,20.2,78,0,Live,5,-,Rains
-09/05/2017,Tue,Office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:35,12.67,21.7,71,1g,Live,6,-,-
-07/05/2017,Sun,Brahmins bfast ride,JP Nagar,Jayanagar 5th block,-,leisure,roundtrip,0:28,9.49,20.3,69,0,Live,4,Fake Brahmins,-
-23/04/2017,Sun,Morning training - pedal breakdown :(,JP Nagar,Race Course Road,-,workout,roundtrip,1:34,33.8,21.6,180,0,Live,4,Airlines Hotel,pedal breakdown
-20/04/2017,Thu,Night office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:30,12,24.0,-,0,Later,1,-,-
-20/04/2017,Thu,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:40,12.31,18.5,70,0,Live,4,-,-
-16/04/2017,Sun,Morning training ride,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:25,50.82,21.0,285,1sil,Live,3,Airlines Hotel,-
-01/03/2017,Wed,Night office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:44,13.44,18.3,77,1bro,Live,5,-,-
-01/03/2017,Wed,Morning commute,JP Nagar,Lavelle Road,-,commute,oneway,0:38,11.94,18.9,70,1sil,Live,2,-,-
-27/02/2017,Mon,Night commute,Lavelle Road,JP Nagar,-,commute,oneway,0:37,12.43,20.2,72,1sil,Live,4,-,-
-27/02/2017,Mon,Remnant morning commute,JP Nagar,Lavelle Road,-,commute,oneway,0:20,7,21.0,0,0,Live,3,-,-
-27/02/2017,Mon,Morning commute - strava dies :(,JP Nagar,Lavelle Road,-,commute,oneway,0:15,6.88,27.5,0,0,Live,4,-,Strava Dies midway
-22/02/2017,Wed,Evening commute,Lavelle Road,JP Nagar,-,commute,oneway,0:40,13.22,19.8,75,"3(1sil,1g,1bro)",Live,3,-,-
-22/02/2017,Wed,Morning commute,JP Nagar,Lavelle Road,-,commute,oneway,0:39,13.14,20.2,67,0,Live,6,-,-
-19/02/2017,Sun,Sunday training ride,JP Nagar,Golf Course Junction,-,workout,roundtrip,1:42,37.8,22.2,203,1bro,Live,6,Airlines Hotel,-
-29/01/2017,Sun,Sunday training ride - strava dies midway,JP Nagar,-,-,workout,roundtrip,1:45,40,22.9,-,0,Later,2,Airlines Hotel,Strava Dies midway
-23/01/2017,Mon,Evening office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:44,14.06,19.2,77,0,Live,3,-,-
-23/01/2017,Mon,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:40,12.32,18.5,71,1g,Live,2,-,-
-17/01/2017,Tue,Evening office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:41,13.88,20.3,77,0,Live,6,-,-
-17/01/2017,Tue,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:42,13.65,19.5,67,0,Live,5,-,-
-15/01/2017,Sun,Evening shopping,JP Nagar,Decathlon Bannerghatta,-,errand,roundtrip,0:43,11.33,15.8,64,"6(5g,1sil)",Live,2,-,-
-15/01/2017,Sun,Sunday morning training,JP Nagar,Byappannahalli,-,workout,roundtrip,2:31,55.69,22.1,299,1bro,Live,4,Airlines Hotel,Meeting friends
-11/01/2017,Wed,Evening Ride,Lavelle Road,JP Nagar,-,commute,oneway,0:49,15.12,18.5,82,0,Live,5,-,-
-11/01/2017,Wed,Morning commute,JP Nagar,Lavelle Road,-,commute,oneway,0:45,14.15,18.9,67,0,Live,6,-,-
-09/01/2017,Mon,Evening commute,Lavelle Road,JP Nagar,-,commute,oneway,0:45,13.64,18.2,79,0,Live,2,-,-
-09/01/2017,Mon,Back to the grind - morning commute,JP Nagar,Lavelle Road,-,commute,oneway,0:51,13.51,15.9,75,1sil,Live,4,-,-
-13/11/2016,Sun,Lunch Ride,JP Nagar,Decathlon Bannerghatta,-,errand,oneway,0:16,5.95,22.3,36,"3(2g,1sil)",Live,3,-,-
-10/11/2016,Thu,Evening office ride,Lavelle Road,JP Nagar,-,commute,oneway,0:44,11.74,16.0,73,0,Live,6,-,-
-10/11/2016,Thu,Morning Office Ride,JP Nagar,Lavelle Road,-,commute,oneway,0:33,10.2,18.5,45,0,Live,2,-,-
-06/11/2016,Sun,Sunday casual ride,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:10,51,23.5,-,0,Later,5,-,-
-03/11/2016,Thu,Evening office ride - shit traffic,Lavelle Road,JP Nagar,-,commute,oneway,0:47,12.07,15.4,79,0,Live,2,-,-
-03/11/2016,Thu,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:36,10.08,16.8,45,0,Live,6,-,-
-31/10/2016,Mon,Centurion ride,JP Nagar,Airport ,-,workout,roundtrip,4:18,104.21,24.2,646,"22(10g,4sil,8bro)",Live,5,Airport CCD,"Leg Tan phase, co-rider: Saransh Sinha"
-23/10/2016,Sun,Morning Ride - semi centurion,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:16,51.57,22.8,299,"5(3sil,2bro)",Live,5,-,-
-16/10/2016,Sun,Centurion ride - gran frondo check,JP Nagar,Airport,Decathlon bannerghatta,workout,roundtrip,4:52,115.36,23.7,754,"24(10g,11sil,3bro)",Live,3,Airport CCD,Gran Frondo - Leg Tan phase
-09/10/2016,Sun,Morning leisure ride - document fetch,JP Nagar,Indiranagar,-,errand,roundtrip,1:45,35.78,20.4,194,"4(3g,1sil)",Live,4,Aunt’s house,Passport document fetch
-05/10/2016,Wed,Evening Ride,Lavelle Road,JP Nagar,-,commute,oneway,0:47,11.92,15.2,77,0,Live,0,-,-
-05/10/2016,Wed,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:33,10.34,18.8,45,0,Live,3,-,-
-02/10/2016,Sun,Blitzkrieg Centurion - new PR,JP Nagar,Airport ,-,workout,roundtrip,4:12,101.42,24.1,648,"24(18g,5sil,1br)",Live,5,Airport CCD,"New 100km PR, leg tan phase"
-28/09/2016,Wed,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:38,11.18,17.7,76,0,Live,2,-,-
-28/09/2016,Wed,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:42,11.64,16.6,45,0,Live,2,-,-
-21/09/2016,Wed,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:45,12.45,16.6,74,0,Live,2,-,-
-21/09/2016,Wed,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:34,10.62,18.7,45,0,Live,4,-,-
-19/09/2016,Mon,Back from the bike shop - bots,JP Nagar,BOTS Jayanagar,-,errand,oneway,0:20,5.6,16.8,-,0,Later,2,-,Bike Repair
-18/09/2016,Sun,"Lunch Ride - ride to the bike shop , bots",BOTS Jayanagar,JP Nagar,-,errand,oneway,0:22,6.28,17.1,46,1bro,Live,3,-,Bike Repair
-18/09/2016,Sun,Flash of the two worlds,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:10,50,23.1,-,0,Later,2,-,-
-16/09/2016,Fri,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:41,11.71,17.1,78,0,Live,1,-,-
-16/09/2016,Fri,Morning office ride,JP Nagar,Lavelle Road,-,commute,oneway,0:39,11.13,17.1,45,0,Live,1,-,-
-12/09/2016,Mon,CTR breakfast ride - race course road.,JP Nagar,CTR Malleshwaram,-,workout,roundtrip,2:23,49.33,20.7,326,"2(1sil,1bro)",Live,3,CTR Malleshwaram,-
-11/09/2016,Sun,Morning ride - remnant 50,JP Nagar,CV Raman Road,-,workout,roundtrip,0:16,6,22.5,-,0,Later,2,Indian Coffee House,"tyre goes flat, get an uber xl, complete ride"
-11/09/2016,Sun,"Timeline breach - eventful sunday morning ride - ride, flat, uber xl, fix tyre, ride back",JP Nagar,CV Raman Road,-,workout,roundtrip,2:00,44.77,22.4,249,"3(1g,2bro)",Live,6,Indian Coffee House,-
-24/08/2016,Wed,Midweek training ride - rainfed,JP Nagar,MG Road ,-,workout,roundtrip,1:18,30.25,23.3,157,"5(1g,2sil,2bro)",Live,3,-,"newer routes, co-rider: Saransh Sinha, rains"
-18/08/2016,Thu,Evening Ride - office,Mission Road,JP Nagar,-,commute,oneway,0:38,10.86,17.1,82,0,Live,2,-,-
-18/08/2016,Thu,Morning Ride - office,JP Nagar,Mission Road,-,commute,oneway,0:37,10.98,17.8,44,0,Live,2,-,-
-16/08/2016,Tue,Evening Ride - office,Mission Road,JP Nagar,-,commute,oneway,0:37,10.76,17.4,76,0,Live,3,-,-
-16/08/2016,Tue,Morning Ride - office,JP Nagar,Mission Road,-,commute,oneway,0:43,10.71,14.9,44,0,Live,2,-,-
-14/08/2016,Sun,Sunday casual ride,JP Nagar,Cubbon park,-,workout,roundtrip,1:40,29.4,17.6,160,3g,Live,3,-,tyre goes flat
-07/08/2016,Sun,Bangalore Hyderabad highway,JP Nagar,Nandi Base,-,workout,roundtrip,5:45,128.41,22.3,793,"24(8g,9sil,7bro)",Live,2,"Airport CCD, Airlines Hotel, Indian Paratha Company",Long Distance PR
-05/08/2016,Fri,Evening office,Mission Road,JP Nagar,-,commute,oneway,0:49,12.09,14.8,75,0,Live,1,-,-
-05/08/2016,Fri,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:34,10.17,17.9,44,0,Live,0,-,-
-31/07/2016,Sun,Flashpoint - new routes,JP Nagar,KK Road,-,workout,roundtrip,1:44,37.76,21.8,198,"3(1g,2bro)",Live,1,Airlines Hotel,New Route Discovered
-28/07/2016,Thu,Evening Ride,Mission Road,JP Nagar,-,commute,oneway,0:49,11.52,14.1,76,0,Live,0,-,-
-28/07/2016,Thu,Morning Ride - shit traffic :(,JP Nagar,Mission Road,-,commute,oneway,0:39,10.41,16.0,44,0,Live,0,-,-
-23/07/2016,Sat,"Traffic :( , bought new cycling gear though",JP Nagar,Decathlon Bannerghatta,-,errand,roundtrip,0:50,11.47,13.8,69,0,Live,1,-,Bought new cycling gear
-23/07/2016,Sat,Time remnant - Brahmins coffee bar ride,JP Nagar,Hebbal Circle,Basavangudi,workout,roundtrip,1:49,41.05,22.6,253,"5(1g,3sil,1bro)",Live,0,Brahmin's Coffee Bar,-
-17/07/2016,Sun,Reverse Flash,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:10,51.48,23.8,306,"8(5g,2sil,1bro)",Live,0,Indian Coffee House,-
-14/07/2016,Thu,Night office ride,Mission Road,JP Nagar,-,commute,oneway,0:37,12.69,20.6,74,0,Live,0,-,-
-14/07/2016,Thu,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:33,10.31,18.7,45,0,Live,0,-,-
-12/07/2016,Tue,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:37,11.65,18.9,74,0,Live,0,-,-
-12/07/2016,Tue,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:35,10.23,17.5,45,0,Live,1,-,-
-28/06/2016,Tue,Midweek morning ride,JP Nagar,KK Road,-,workout,roundtrip,1:43,37.2,21.7,184,2g,Live,2,-,-
-19/06/2016,Sun,Run Barry Run,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:08,48.58,22.8,278,"8(2g,2sil,4bro)",Live,0,Indian Coffee House,-
-13/06/2016,Mon,Evening Ride - rains,Mission Road,JP Nagar,-,commute,oneway,0:47,12.9,16.5,74,0,Live,0,-,-
-13/06/2016,Mon,Morning commute,JP Nagar,Mission Road,-,commute,oneway,0:32,10.42,19.5,45,0,Live,0,-,-
-12/06/2016,Sun,Cosmic treadmill,JP Nagar,Hebbal Circle,-,workout,roundtrip,2:09,42.62,19.8,219,"3(1sil,2bro)",Live,0,Indian Coffee House,-
-05/06/2016,Sun,Back to the track _,JP Nagar,KK Road,-,workout,roundtrip,1:43,38.65,22.5,182,0,Live,0,Indian Coffee House,
-03/06/2016,Fri,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:41,11.57,16.9,77,0,Live,0,-,
-03/06/2016,Fri,Morning Ride,JP Nagar,Mission Road,-,commute,oneway,0:31,10.06,19.5,45,0,Live,0,-,
-18/05/2016,Wed,Morning ride _,JP Nagar,KK Road,-,workout,roundtrip,1:40,38.78,23.3,197,"4(1g,2sil,1bro)",Live,1,-,
-15/05/2016,Sun,Sunday morning ride,JP Nagar,Golf Course Junction,-,workout,roundtrip,1:35,36.6,23.1,191,"7(3g,1sil,3bro) || 2 attt",Live,1,Airlines Hotel,
-10/05/2016,Tue,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:39,12.3,18.9,74,0,Live,0,-,
-10/05/2016,Tue,Morning office ride #commute,JP Nagar,MIssion Road,-,commute,oneway,0:34,10.05,17.7,44,0,Live,0,-,
-01/05/2016,Sun,Morning Ride,JP Nagar,KK Road,Cubbon Park,workout,roundtrip,1:44,40.33,23.3,194,"6(2g,4bro)",Live,0,Indian Coffee House,-
-27/04/2016,Wed,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:40,11.65,17.5,77,0,Live,0,-,
-27/04/2016,Wed,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:32,10.44,19.6,44,0,Live,0,-,
-24/04/2016,Sun,Sunday morning ride - missed 50,JP Nagar,Hebbal Circle,Cubbon Park,workout,roundtrip,1:41,41.7,24.8,244,"11(5g,4sil,2bro) || 1 attt, still",Live,0,Indian Coffee House,"Missed 50, as forgot to switch on Strava after Indian Coffee House, starts back in Basavanagudi"
-21/04/2016,Thu,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:38,11.95,18.9,75,1 sil,Live,0,-,
-21/04/2016,Thu,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:33,11.24,20.4,45,0,Live,0,-,
-19/04/2016,Tue,Evening traffic ride,Mission Road,JP Nagar,-,commute,oneway,0:44,11.8,16.1,80,0,Live,0,-,
-19/04/2016,Tue,Morning office ride - glitch in matrix,JP Nagar,Mission Road,-,commute,oneway,0:24,11.44,28.6,44,0,Live,1,-,
-17/04/2016,Sun,Sunday morning ride,JP Nagar,-,-,workout,roundtrip,1:30,37,24.67,-,0,Later,0,-,
-13/04/2016,Wed,Night office ride,Mission Road,JP Nagar,-,commute,oneway,0:32,11.66,21.86,75,1g,Live,1,-,
-13/04/2016,Wed,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:33,10.28,18.69,45,0,Live,1,-,
-11/04/2016,Mon,Evening Ride,Mission Road,JP Nagar,-,commute,oneway,0:36,11.77,19.62,76,1bro,Live,0,-,
-11/04/2016,Mon,New PR - office ride,JP Nagar,Mission Road,-,commute,oneway,0:30,10.38,20.76,44,0,Live,0,-,
-10/04/2016,Sun,Airlines hotel ride,JP Nagar,Vidhan Soudha,Cubbon Park,workout,roundtrip,1:36,35.22,22.01,199,"6(3g,3sil) || 1 attt",Live,0,Airlines Hotel,
-07/04/2016,Thu,Evening Ride,Mission Road,JP Nagar,-,commute,oneway,0:34,10.27,18.12,72,0,Live,0,-,
-07/04/2016,Thu,Traffic maze,JP Nagar,Mission Road,-,commute,oneway,0:36,10.2,17.00,45,0,Live,0,-,
-05/04/2016,Tue,Evening Office Ride,Mission Road,JP Nagar,-,commute,oneway,0:37,11.65,18.89,75,1bro,Live,0,-,
-05/04/2016,Tue,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:35,10.09,17.30,45,0,Live,0,-,
-03/04/2016,Sun,Sunday morning casual ride,JP Nagar,Golf Course Junction,Cubbon Park,workout,roundtrip,1:26,34.53,24.09,185,"7(6g,1sil) || 2 attt",Live,0,Indian Coffee House,
-28/03/2016,Mon,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:52,15.14,17.47,93,0,Live,0,-,
-28/03/2016,Mon,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:35,10.5,18.00,-,0,Later,0,-,
-27/03/2016,Sun,Centurion 2.0,JP Nagar,Airport,-,workout,roundtrip,4:42,106.51,22.66,672,"28(23g,3sil,3bro)",Live,0,Airport CCD,
-22/03/2016,Tue,Evening office ride,Mission Road,JP Nagar,-,commute,oneway,0:39,10.93,16.82,79,0,Live,0,-,
-22/03/2016,Tue,Morning Ride,JP Nagar,Mission Road,-,commute,oneway,0:34,10.18,17.96,44,0,Live,0,-,
-19/03/2016,Sat,Journey to the lab,JP Nagar,RR Cycles ,-,commute,oneway,0:29,8.99,18.60,52,0,Live,0,-,
-15/03/2016,Tue,Evening Rain ride,Mission Road,JP Nagar,-,commute,oneway,0:44,11.22,15.30,78,0,Live,0,-,
-15/03/2016,Tue,Morning office ride,JP Nagar,Mission Road,-,commute,oneway,0:33,10.71,19.47,44,0,Live,0,-,
-13/03/2016,Sun,Morning Ride,JP Nagar,Golf Course Junction,Cubbon Park,workout,roundtrip,1:27,33.54,23.13,201,"9(3g,3sil,3bro) || 1 attt, still",Live,0,Indian Coffee House,phone dies at pitstop - Indian Coffee House
-,,,,,,,,,,,,,,,,
+date,date_text,day,ride_name,origin,prim_destn,secn_destn(visits_on_way),ride_type,workout_count,ride_nature,timel(hr:min),distance(kms),speed(kmph),elevation(m),achievements,upload_type,kudos,eateries,highlights
+20/01/2018,20-Jan-18,Sat,Airport ride,Peenya,Airport ,-,workout,1,roundtrip,3:29,74.32,21.3,605,"3(1sil,1g,1bro)",Live,4,Airport CCD,Met Office friends along the way
+14/01/2018,14-Jan-18,Sun,Nandi base ride - return of the jedi,Peenya,Nandi Base,-,workout,1,roundtrip,4:47,104.11,21.8,789,"13(6g,4sil,3bro)",Live,2,"Indian Paratha Company, A2B",Jan Gran Frondo
+10/01/2018,10-Jan-18,Wed,Airport ride,Peenya,Airport ,-,workout,1,roundtrip,3:23,74.08,21.9,571,"5(2g,1sil,2bro)",Live,1,Airport CCD,-
+07/01/2018,7-Jan-18,Sun,Hessaraghatta lake exploration,Peenya,Hessaraghatta Lake,-,workout,1,roundtrip,2:32,45.73,18.1,383,12g,Live,7,-,New Route Discovered
+06/01/2018,6-Jan-18,Sat,Back from the laboratory,BOTS Infantry Road,Peenya,-,errand,0,oneway,0:46,13.65,17.8,140,1bro,Live,3,-,Cycle repair
+30/12/2017,30-Dec-17,Sat,Ride to the bike shop,Peenya,BOTS Infantry Road,-,errand,0,oneway,0:38,11.18,17.7,118,1g,Live,2,-,Cycle repair
+29/12/2017,29-Dec-17,Fri,Season 2,Peenya,Hebbal Circle,-,workout,1,roundtrip,1:55,37.39,19.5,385,0,Live,6,-,Resume training after term holidays
+07/10/2017,7-Oct-17,Sat,Morning training ride,Peenya,Hebbal Circle,-,workout,1,roundtrip,1:55,39.61,20.7,422,"4(1g,3bro)",Live,,Airlines Hotel,-
+19/09/2017,19-Sep-17,Tue,Morning brisk ride,Peenya,Hebbal Circle,-,workout,1,roundtrip,1:35,40,25.3,-,0,Later,1,Airlines Hotel,-
+03/09/2017,3-Sep-17,Sun,Nandi base ride,Peenya,Nandi Base,-,workout,1,roundtrip,4:40,96.64,20.7,740,"7(2g,4sil,1bro)",Live,3,"Airport CCD, A2B",First long distance after college begins(NID)
+23/08/2017,23-Aug-17,Wed,Brisk morning ride,Peenya,MG Road ,-,workout,1,roundtrip,1:19,32.33,24.6,321,2sil,Live,0,Airlines Hotel,-
+09/08/2017,9-Aug-17,Wed,Morning brisk ride,Peenya,Hebbal Circle,MG Road,workout,1,roundtrip,1:36,36.41,22.8,359,"5(2g,2sil,2bro)",,3,-,
+05/08/2017,5-Aug-17,Sat,Training ride,Peenya,Hebbal Circle,"MG Road,KK road, HMT circle",workout,1,roundtrip,2:12,47.05,21.4,489,"4(2g,sil)",Live,3,Airlines Hotel,-
+29/07/2017,29-Jul-17,Sat,Breakfast ride,Peenya,Hebbal Circle,Jalahalli,workout,1,roundtrip,2:27,54.95,22.4,698,1sil,Live,4,Airlines Hotel,-
+25/07/2017,25-Jul-17,Tue,New Routes - bfast ride,Peenya,Hebbal Circle,-,workout,1,roundtrip,1:42,38.99,22.9,398,"2(1g,1sil)",Live,5,Airlines Hotel,First breakfast ride after college begins(NID)
+16/07/2017,16-Jul-17,Sun,Sunday ride - shifting to new place,JP Nagar,Peenya,-,errand,0,oneway,1:12,26.56,22.1,236,1sil,Live,5,-,Shifting to  new place
+26/06/2017,26-Jun-17,Mon,Third wave approach,JP Nagar,Koramangala,-,leisure,0,oneway,0:45,11.62,15.5,79,"8(5g,3sil)",Live,5,Third Wave Coffee Roasters,New Route Discovered
+20/06/2017,20-Jun-17,Tue,Evening Ride office,Lavelle Road,JP Nagar,-,commute,0,oneway,0:42,13.05,18.6,92,0,Live,4,-,-
+20/06/2017,20-Jun-17,Tue,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:38,11.9,18.8,78,0,Live,2,-,-
+08/06/2017,8-Jun-17,Thu,Evening office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:48,12.9,16.1,102,0,Live,1,-,-
+08/06/2017,8-Jun-17,Thu,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:37,11.57,18.8,82,0,Live,2,-,-
+06/06/2017,6-Jun-17,Tue,Evening office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:52,15.24,17.6,103,0,Live,2,-,-
+06/06/2017,6-Jun-17,Tue,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:37,11.74,19.0,84,0,Live,5,-,-
+04/06/2017,4-Jun-17,Sun,Sunday training ride,JP Nagar,Hebbal Circle,Sankey Tank,workout,1,roundtrip,1:56,45.64,23.6,378,0,Live,6,Airlines Hotel,-
+21/05/2017,21-May-17,Sun,Evening coffee sprint,JP Nagar,Jayanagar 5th block,-,leisure,0,roundtrip,0:34,10.51,18.5,70,0,Live,3,A2B,-
+21/05/2017,21-May-17,Sun,Sunday bfast ride,JP Nagar,Race Course Road,-,workout,1,roundtrip,1:51,40.39,21.8,209,3g,Live,2,Airlines Hotel,-
+17/05/2017,17-May-17,Wed,Evening Ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:45,14.83,19.8,81,0,Live,2,-,-
+17/05/2017,17-May-17,Wed,Office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:39,12.85,19.8,71,0,Live,2,-,-
+14/05/2017,14-May-17,Sun,Evening coffee sprint,JP Nagar,Jayanagar 5th block,-,leisure,0,roundtrip,0:44,14.42,19.7,87,0,Live,2,A2B,-
+14/05/2017,14-May-17,Sun,New 50 km PR,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,1:58,50.21,25.5,291,0,Live,5,Airlines Hotel,new 50km PR
+09/05/2017,9-May-17,Tue,Rain-fed office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:45,15.15,20.2,78,0,Live,5,-,Rains
+09/05/2017,9-May-17,Tue,Office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:35,12.67,21.7,71,1g,Live,6,-,-
+07/05/2017,7-May-17,Sun,Brahmins bfast ride,JP Nagar,Jayanagar 5th block,-,leisure,0,roundtrip,0:28,9.49,20.3,69,0,Live,4,Fake Brahmins,-
+23/04/2017,23-Apr-17,Sun,Morning training - pedal breakdown :(,JP Nagar,Race Course Road,-,workout,1,roundtrip,1:34,33.8,21.6,180,0,Live,4,Airlines Hotel,pedal breakdown
+20/04/2017,20-Apr-17,Thu,Night office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:30,12,24.0,-,0,Later,1,-,-
+20/04/2017,20-Apr-17,Thu,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:40,12.31,18.5,70,0,Live,4,-,-
+16/04/2017,16-Apr-17,Sun,Morning training ride,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:25,50.82,21.0,285,1sil,Live,3,Airlines Hotel,-
+01/03/2017,1-Mar-17,Wed,Night office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:44,13.44,18.3,77,1bro,Live,5,-,-
+01/03/2017,1-Mar-17,Wed,Morning commute,JP Nagar,Lavelle Road,-,commute,0,oneway,0:38,11.94,18.9,70,1sil,Live,2,-,-
+27/02/2017,27-Feb-17,Mon,Night commute,Lavelle Road,JP Nagar,-,commute,0,oneway,0:37,12.43,20.2,72,1sil,Live,4,-,-
+27/02/2017,27-Feb-17,Mon,Remnant morning commute,JP Nagar,Lavelle Road,-,commute,0,oneway,0:20,7,21.0,0,0,Live,3,-,-
+27/02/2017,27-Feb-17,Mon,Morning commute - strava dies :(,JP Nagar,Lavelle Road,-,commute,0,oneway,0:15,6.88,27.5,0,0,Live,4,-,Strava Dies midway
+22/02/2017,22-Feb-17,Wed,Evening commute,Lavelle Road,JP Nagar,-,commute,0,oneway,0:40,13.22,19.8,75,"3(1sil,1g,1bro)",Live,3,-,-
+22/02/2017,22-Feb-17,Wed,Morning commute,JP Nagar,Lavelle Road,-,commute,0,oneway,0:39,13.14,20.2,67,0,Live,6,-,-
+19/02/2017,19-Feb-17,Sun,Sunday training ride,JP Nagar,Golf Course Junction,-,workout,1,roundtrip,1:42,37.8,22.2,203,1bro,Live,6,Airlines Hotel,-
+29/01/2017,29-Jan-17,Sun,Sunday training ride - strava dies midway,JP Nagar,-,-,workout,1,roundtrip,1:45,40,22.9,-,0,Later,2,Airlines Hotel,Strava Dies midway
+23/01/2017,23-Jan-17,Mon,Evening office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:44,14.06,19.2,77,0,Live,3,-,-
+23/01/2017,23-Jan-17,Mon,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:40,12.32,18.5,71,1g,Live,2,-,-
+17/01/2017,17-Jan-17,Tue,Evening office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:41,13.88,20.3,77,0,Live,6,-,-
+17/01/2017,17-Jan-17,Tue,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:42,13.65,19.5,67,0,Live,5,-,-
+15/01/2017,15-Jan-17,Sun,Evening shopping,JP Nagar,Decathlon Bannerghatta,-,errand,0,roundtrip,0:43,11.33,15.8,64,"6(5g,1sil)",Live,2,-,-
+15/01/2017,15-Jan-17,Sun,Sunday morning training,JP Nagar,Byappannahalli,-,workout,1,roundtrip,2:31,55.69,22.1,299,1bro,Live,4,Airlines Hotel,Meeting friends
+11/01/2017,11-Jan-17,Wed,Evening Ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:49,15.12,18.5,82,0,Live,5,-,-
+11/01/2017,11-Jan-17,Wed,Morning commute,JP Nagar,Lavelle Road,-,commute,0,oneway,0:45,14.15,18.9,67,0,Live,6,-,-
+09/01/2017,9-Jan-17,Mon,Evening commute,Lavelle Road,JP Nagar,-,commute,0,oneway,0:45,13.64,18.2,79,0,Live,2,-,-
+09/01/2017,9-Jan-17,Mon,Back to the grind - morning commute,JP Nagar,Lavelle Road,-,commute,0,oneway,0:51,13.51,15.9,75,1sil,Live,4,-,-
+13/11/2016,13-Nov-16,Sun,Lunch Ride,JP Nagar,Decathlon Bannerghatta,-,errand,0,oneway,0:16,5.95,22.3,36,"3(2g,1sil)",Live,3,-,-
+10/11/2016,10-Nov-16,Thu,Evening office ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:44,11.74,16.0,73,0,Live,6,-,-
+10/11/2016,10-Nov-16,Thu,Morning Office Ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:33,10.2,18.5,45,0,Live,2,-,-
+06/11/2016,6-Nov-16,Sun,Sunday casual ride,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:10,51,23.5,-,0,Later,5,-,-
+03/11/2016,3-Nov-16,Thu,Evening office ride - shit traffic,Lavelle Road,JP Nagar,-,commute,0,oneway,0:47,12.07,15.4,79,0,Live,2,-,-
+03/11/2016,3-Nov-16,Thu,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:36,10.08,16.8,45,0,Live,6,-,-
+31/10/2016,31-Oct-16,Mon,Centurion ride,JP Nagar,Airport ,-,workout,1,roundtrip,4:18,104.21,24.2,646,"22(10g,4sil,8bro)",Live,5,Airport CCD,"Leg Tan phase, co-rider: Saransh Sinha"
+23/10/2016,23-Oct-16,Sun,Morning Ride - semi centurion,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:16,51.57,22.8,299,"5(3sil,2bro)",Live,5,-,-
+16/10/2016,16-Oct-16,Sun,Centurion ride - gran frondo check,JP Nagar,Airport,Decathlon bannerghatta,workout,1,roundtrip,4:52,115.36,23.7,754,"24(10g,11sil,3bro)",Live,3,Airport CCD,Gran Frondo - Leg Tan phase
+09/10/2016,9-Oct-16,Sun,Morning leisure ride - document fetch,JP Nagar,Indiranagar,-,errand,0,roundtrip,1:45,35.78,20.4,194,"4(3g,1sil)",Live,4,Aunt’s house,Passport document fetch
+05/10/2016,5-Oct-16,Wed,Evening Ride,Lavelle Road,JP Nagar,-,commute,0,oneway,0:47,11.92,15.2,77,0,Live,0,-,-
+05/10/2016,5-Oct-16,Wed,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:33,10.34,18.8,45,0,Live,3,-,-
+02/10/2016,2-Oct-16,Sun,Blitzkrieg Centurion - new PR,JP Nagar,Airport ,-,workout,1,roundtrip,4:12,101.42,24.1,648,"24(18g,5sil,1br)",Live,5,Airport CCD,"New 100km PR, leg tan phase"
+28/09/2016,28-Sep-16,Wed,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:38,11.18,17.7,76,0,Live,2,-,-
+28/09/2016,28-Sep-16,Wed,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:42,11.64,16.6,45,0,Live,2,-,-
+21/09/2016,21-Sep-16,Wed,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:45,12.45,16.6,74,0,Live,2,-,-
+21/09/2016,21-Sep-16,Wed,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:34,10.62,18.7,45,0,Live,4,-,-
+19/09/2016,19-Sep-16,Mon,Back from the bike shop - bots,JP Nagar,BOTS Jayanagar,-,errand,0,oneway,0:20,5.6,16.8,-,0,Later,2,-,Bike Repair
+18/09/2016,18-Sep-16,Sun,"Lunch Ride - ride to the bike shop , bots",BOTS Jayanagar,JP Nagar,-,errand,0,oneway,0:22,6.28,17.1,46,1bro,Live,3,-,Bike Repair
+18/09/2016,18-Sep-16,Sun,Flash of the two worlds,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:10,50,23.1,-,0,Later,2,-,-
+16/09/2016,16-Sep-16,Fri,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:41,11.71,17.1,78,0,Live,1,-,-
+16/09/2016,16-Sep-16,Fri,Morning office ride,JP Nagar,Lavelle Road,-,commute,0,oneway,0:39,11.13,17.1,45,0,Live,1,-,-
+12/09/2016,12-Sep-16,Mon,CTR breakfast ride - race course road.,JP Nagar,CTR Malleshwaram,-,workout,1,roundtrip,2:23,49.33,20.7,326,"2(1sil,1bro)",Live,3,CTR Malleshwaram,-
+11/09/2016,11-Sep-16,Sun,Morning ride - remnant 50,JP Nagar,CV Raman Road,-,workout,1,roundtrip,0:16,6,22.5,-,0,Later,2,Indian Coffee House,"tyre goes flat, get an uber xl, complete ride"
+11/09/2016,11-Sep-16,Sun,"Timeline breach - eventful sunday morning ride - ride, flat, uber xl, fix tyre, ride back",JP Nagar,CV Raman Road,-,workout,1,roundtrip,2:00,44.77,22.4,249,"3(1g,2bro)",Live,6,Indian Coffee House,-
+24/08/2016,24-Aug-16,Wed,Midweek training ride - rainfed,JP Nagar,MG Road ,-,workout,1,roundtrip,1:18,30.25,23.3,157,"5(1g,2sil,2bro)",Live,3,-,"newer routes, co-rider: Saransh Sinha, rains"
+18/08/2016,18-Aug-16,Thu,Evening Ride - office,Mission Road,JP Nagar,-,commute,0,oneway,0:38,10.86,17.1,82,0,Live,2,-,-
+18/08/2016,18-Aug-16,Thu,Morning Ride - office,JP Nagar,Mission Road,-,commute,0,oneway,0:37,10.98,17.8,44,0,Live,2,-,-
+16/08/2016,16-Aug-16,Tue,Evening Ride - office,Mission Road,JP Nagar,-,commute,0,oneway,0:37,10.76,17.4,76,0,Live,3,-,-
+16/08/2016,16-Aug-16,Tue,Morning Ride - office,JP Nagar,Mission Road,-,commute,0,oneway,0:43,10.71,14.9,44,0,Live,2,-,-
+14/08/2016,14-Aug-16,Sun,Sunday casual ride,JP Nagar,Cubbon park,-,workout,1,roundtrip,1:40,29.4,17.6,160,3g,Live,3,-,tyre goes flat
+07/08/2016,7-Aug-16,Sun,Bangalore Hyderabad highway,JP Nagar,Nandi Base,-,workout,1,roundtrip,5:45,128.41,22.3,793,"24(8g,9sil,7bro)",Live,2,"Airport CCD, Airlines Hotel, Indian Paratha Company",Long Distance PR
+05/08/2016,5-Aug-16,Fri,Evening office,Mission Road,JP Nagar,-,commute,0,oneway,0:49,12.09,14.8,75,0,Live,1,-,-
+05/08/2016,5-Aug-16,Fri,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:34,10.17,17.9,44,0,Live,0,-,-
+31/07/2016,31-Jul-16,Sun,Flashpoint - new routes,JP Nagar,KK Road,-,workout,1,roundtrip,1:44,37.76,21.8,198,"3(1g,2bro)",Live,1,Airlines Hotel,New Route Discovered
+28/07/2016,28-Jul-16,Thu,Evening Ride,Mission Road,JP Nagar,-,commute,0,oneway,0:49,11.52,14.1,76,0,Live,0,-,-
+28/07/2016,28-Jul-16,Thu,Morning Ride - shit traffic :(,JP Nagar,Mission Road,-,commute,0,oneway,0:39,10.41,16.0,44,0,Live,0,-,-
+23/07/2016,23-Jul-16,Sat,"Traffic :( , bought new cycling gear though",JP Nagar,Decathlon Bannerghatta,-,errand,0,roundtrip,0:50,11.47,13.8,69,0,Live,1,-,Bought new cycling gear
+23/07/2016,23-Jul-16,Sat,Time remnant - Brahmins coffee bar ride,JP Nagar,Hebbal Circle,Basavangudi,workout,1,roundtrip,1:49,41.05,22.6,253,"5(1g,3sil,1bro)",Live,0,Brahmin's Coffee Bar,-
+17/07/2016,17-Jul-16,Sun,Reverse Flash,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:10,51.48,23.8,306,"8(5g,2sil,1bro)",Live,0,Indian Coffee House,-
+14/07/2016,14-Jul-16,Thu,Night office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:37,12.69,20.6,74,0,Live,0,-,-
+14/07/2016,14-Jul-16,Thu,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:33,10.31,18.7,45,0,Live,0,-,-
+12/07/2016,12-Jul-16,Tue,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:37,11.65,18.9,74,0,Live,0,-,-
+12/07/2016,12-Jul-16,Tue,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:35,10.23,17.5,45,0,Live,1,-,-
+28/06/2016,28-Jun-16,Tue,Midweek morning ride,JP Nagar,KK Road,-,workout,1,roundtrip,1:43,37.2,21.7,184,2g,Live,2,-,-
+19/06/2016,19-Jun-16,Sun,Run Barry Run,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:08,48.58,22.8,278,"8(2g,2sil,4bro)",Live,0,Indian Coffee House,-
+13/06/2016,13-Jun-16,Mon,Evening Ride - rains,Mission Road,JP Nagar,-,commute,0,oneway,0:47,12.9,16.5,74,0,Live,0,-,-
+13/06/2016,13-Jun-16,Mon,Morning commute,JP Nagar,Mission Road,-,commute,0,oneway,0:32,10.42,19.5,45,0,Live,0,-,-
+12/06/2016,12-Jun-16,Sun,Cosmic treadmill,JP Nagar,Hebbal Circle,-,workout,1,roundtrip,2:09,42.62,19.8,219,"3(1sil,2bro)",Live,0,Indian Coffee House,-
+05/06/2016,5-Jun-16,Sun,Back to the track _,JP Nagar,KK Road,-,workout,1,roundtrip,1:43,38.65,22.5,182,0,Live,0,Indian Coffee House,
+03/06/2016,3-Jun-16,Fri,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:41,11.57,16.9,77,0,Live,0,-,
+03/06/2016,3-Jun-16,Fri,Morning Ride,JP Nagar,Mission Road,-,commute,0,oneway,0:31,10.06,19.5,45,0,Live,0,-,
+18/05/2016,18-May-16,Wed,Morning ride _,JP Nagar,KK Road,-,workout,1,roundtrip,1:40,38.78,23.3,197,"4(1g,2sil,1bro)",Live,1,-,
+15/05/2016,15-May-16,Sun,Sunday morning ride,JP Nagar,Golf Course Junction,-,workout,1,roundtrip,1:35,36.6,23.1,191,"7(3g,1sil,3bro) || 2 attt",Live,1,Airlines Hotel,
+10/05/2016,10-May-16,Tue,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:39,12.3,18.9,74,0,Live,0,-,
+10/05/2016,10-May-16,Tue,Morning office ride #commute,JP Nagar,MIssion Road,-,commute,0,oneway,0:34,10.05,17.7,44,0,Live,0,-,
+01/05/2016,1-May-16,Sun,Morning Ride,JP Nagar,KK Road,Cubbon Park,workout,1,roundtrip,1:44,40.33,23.3,194,"6(2g,4bro)",Live,0,Indian Coffee House,-
+27/04/2016,27-Apr-16,Wed,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:40,11.65,17.5,77,0,Live,0,-,
+27/04/2016,27-Apr-16,Wed,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:32,10.44,19.6,44,0,Live,0,-,
+24/04/2016,24-Apr-16,Sun,Sunday morning ride - missed 50,JP Nagar,Hebbal Circle,Cubbon Park,workout,1,roundtrip,1:41,41.7,24.8,244,"11(5g,4sil,2bro) || 1 attt, still",Live,0,Indian Coffee House,"Missed 50, as forgot to switch on Strava after Indian Coffee House, starts back in Basavanagudi"
+21/04/2016,21-Apr-16,Thu,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:38,11.95,18.9,75,1 sil,Live,0,-,
+21/04/2016,21-Apr-16,Thu,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:33,11.24,20.4,45,0,Live,0,-,
+19/04/2016,19-Apr-16,Tue,Evening traffic ride,Mission Road,JP Nagar,-,commute,0,oneway,0:44,11.8,16.1,80,0,Live,0,-,
+19/04/2016,19-Apr-16,Tue,Morning office ride - glitch in matrix,JP Nagar,Mission Road,-,commute,0,oneway,0:24,11.44,28.6,44,0,Live,1,-,
+17/04/2016,17-Apr-16,Sun,Sunday morning ride,JP Nagar,-,-,workout,1,roundtrip,1:30,37,24.67,-,0,Later,0,-,
+13/04/2016,13-Apr-16,Wed,Night office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:32,11.66,21.86,75,1g,Live,1,-,
+13/04/2016,13-Apr-16,Wed,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:33,10.28,18.69,45,0,Live,1,-,
+11/04/2016,11-Apr-16,Mon,Evening Ride,Mission Road,JP Nagar,-,commute,0,oneway,0:36,11.77,19.62,76,1bro,Live,0,-,
+11/04/2016,11-Apr-16,Mon,New PR - office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:30,10.38,20.76,44,0,Live,0,-,
+10/04/2016,10-Apr-16,Sun,Airlines hotel ride,JP Nagar,Vidhan Soudha,Cubbon Park,workout,1,roundtrip,1:36,35.22,22.01,199,"6(3g,3sil) || 1 attt",Live,0,Airlines Hotel,
+07/04/2016,7-Apr-16,Thu,Evening Ride,Mission Road,JP Nagar,-,commute,0,oneway,0:34,10.27,18.12,72,0,Live,0,-,
+07/04/2016,7-Apr-16,Thu,Traffic maze,JP Nagar,Mission Road,-,commute,0,oneway,0:36,10.2,17.00,45,0,Live,0,-,
+05/04/2016,5-Apr-16,Tue,Evening Office Ride,Mission Road,JP Nagar,-,commute,0,oneway,0:37,11.65,18.89,75,1bro,Live,0,-,
+05/04/2016,5-Apr-16,Tue,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:35,10.09,17.30,45,0,Live,0,-,
+03/04/2016,3-Apr-16,Sun,Sunday morning casual ride,JP Nagar,Golf Course Junction,Cubbon Park,workout,1,roundtrip,1:26,34.53,24.09,185,"7(6g,1sil) || 2 attt",Live,0,Indian Coffee House,
+28/03/2016,28-Mar-16,Mon,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:52,15.14,17.47,93,0,Live,0,-,
+28/03/2016,28-Mar-16,Mon,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:35,10.5,18.00,-,0,Later,0,-,
+27/03/2016,27-Mar-16,Sun,Centurion 2.0,JP Nagar,Airport,-,workout,1,roundtrip,4:42,106.51,22.66,672,"28(23g,3sil,3bro)",Live,0,Airport CCD,
+22/03/2016,22-Mar-16,Tue,Evening office ride,Mission Road,JP Nagar,-,commute,0,oneway,0:39,10.93,16.82,79,0,Live,0,-,
+22/03/2016,22-Mar-16,Tue,Morning Ride,JP Nagar,Mission Road,-,commute,0,oneway,0:34,10.18,17.96,44,0,Live,0,-,
+19/03/2016,19-Mar-16,Sat,Journey to the lab,JP Nagar,RR Cycles ,-,commute,0,oneway,0:29,8.99,18.60,52,0,Live,0,-,
+15/03/2016,15-Mar-16,Tue,Evening Rain ride,Mission Road,JP Nagar,-,commute,0,oneway,0:44,11.22,15.30,78,0,Live,0,-,
+15/03/2016,15-Mar-16,Tue,Morning office ride,JP Nagar,Mission Road,-,commute,0,oneway,0:33,10.71,19.47,44,0,Live,0,-,
+13/03/2016,13-Mar-16,Sun,Morning Ride,JP Nagar,Golf Course Junction,Cubbon Park,workout,1,roundtrip,1:27,33.54,23.13,201,"9(3g,3sil,3bro) || 1 attt, still",Live,0,Indian Coffee House,phone dies at pitstop - Indian Coffee House
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,distance travelled in elevation(m),21857,,,,,,,,,,,,
