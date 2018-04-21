@@ -61,9 +61,9 @@ Workout ride - 20kms/ 1 kudos.
 
 ### Tasks to be done
 ---
-[ ] Refine acheivement icons
-[ ] Resize wheel hub
-[ ] Add annotations.
+-[ ] Refine acheivement icons
+-[ ] Resize wheel hub
+-[ ] Add annotations.
 
 ### Tools
 ---
