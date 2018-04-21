@@ -58,6 +58,7 @@ Workout ride - 20kms/ 1 kudos.
 ##### Final Visualization
 [full sized visualization](https://www.dropbox.com/s/7h0a9ezfp69qidm/Deardata-%20Shifting%20Gears.jpg?dl=0)
 
+![snapshot](https://github.com/IllusionInk/personaldata/blob/master/assets/Shifting_Gears_viz-12.jpg)
 
 ### Tasks to be done
 ---
