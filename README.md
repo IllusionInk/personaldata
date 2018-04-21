@@ -59,6 +59,12 @@ Workout ride - 20kms/ 1 kudos.
 [full sized visualization](https://www.dropbox.com/s/7h0a9ezfp69qidm/Deardata-%20Shifting%20Gears.jpg?dl=0)
 
 
+### Tasks to be done
+---
+[ ] Refine acheivement icons
+[ ] Resize wheel hub
+[ ] Add annotations.
+
 ### Tools
 ---
 - **MS Excel** - Collating, cleaning the ride data and structuring it into the final required data framework.
