@@ -53,7 +53,7 @@ Workout ride - 20kms/ 1 kudos.
 - Tread Length - Kudos by the community (how the community appreciates my cycle rides).
 - Gear Icon - Achievement in the ride stages as measured by **Strava** *(gold: PR, silver: second best time, bronze: third best time)*.
  
-![schema](https://github.com/IllusionInk/personaldata/blob/master/assets/viz_schema.jpg)
+![schema](https://github.com/IllusionInk/personaldata/blob/master/assets/viz_schema_rgb-08.jpg)
 
 ##### Final Visualization
 [full sized visualization](https://www.dropbox.com/s/7h0a9ezfp69qidm/Deardata-%20Shifting%20Gears.jpg?dl=0)
