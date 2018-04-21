@@ -75,5 +75,5 @@ Workout ride - 20kms/ 1 kudos.
 ### References
 ---
 - [Strava web app](https://www.strava.com/athlete/training) - Ride Statistics tracked via the mobile app.
-- Accurat (tumblr account)
+- [Accurat](https://www.flickr.com/photos/accurat/)
 
