@@ -36,7 +36,7 @@ Commute ride - 6kms/ 1 kudos.
 Workout ride - 20kms/ 1 kudos.
 
 
-##### Initial Explorations
+#### Initial Explorations
 - Since I wanted to analyze my cycling rides over the past months. I began drafting concepts for how a month would appear.
  - Considering the cycle and its parts as the background context, I decided to consider each month as a wheel and the bike rides during the month be depicted as the wheel spokes.
  - Further, I explored other bike parts to analogize with variables in my dataset (ride type, origin, destination, ride_nature etc.)
@@ -62,9 +62,9 @@ Workout ride - 20kms/ 1 kudos.
 
 ### Tasks to be done
 ---
--[ ] Refine acheivement icons
--[ ] Resize wheel hub
--[ ] Add annotations.
+- [ ] Refine acheivement icons
+- [ ] Resize wheel hub
+- [ ] Add annotations.
 
 ### Tools
 ---
