@@ -42,7 +42,8 @@ Workout ride - 20kms/ 1 kudos.
  - Further, I explored other bike parts to analogize with variables in my dataset (ride type, origin, destination, ride_nature etc.)
 
 ![sketch](https://github.com/IllusionInk/personaldata/blob/master/assets/initial_sketches.jpg)
-### Visualization
+### Visualization (W.I.P.)
+
 ---
 ##### Schema
 - Wheel Hub Size - Distance cycled in the month
