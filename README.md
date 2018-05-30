@@ -57,13 +57,14 @@ Workout ride - 20kms/ 1 kudos.
 ![schema](https://github.com/IllusionInk/personaldata/blob/master/assets/viz_schema_rgb-08.jpg)
 
 ##### Final Visualization
-The final output is an A0 sized print visualization.[full sized visualization](https://www.dropbox.com/s/fzt1mrxoix4dxqf/Shifting%20Gears.pdf?dl=0). 
+The final output is an A0 sized print visualization.[full sized visualization](https://www.dropbox.com/s/089zozf6w49w1cl/Shifting_Gears_final.pdf?dl=0). 
 
 ![snapshot](https://github.com/IllusionInk/personaldata/blob/master/assets/Shifting_Gears_viz-12.jpg)
 
 ### Tasks to be done
 ---
 - [ ] Refine acheivement icons
+- [x] Add Weekday-weekend analysis
 - [x] Resize wheel hub
 - [x] Add annotations.
 
