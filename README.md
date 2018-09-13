@@ -57,7 +57,7 @@ Workout ride - 20kms/ 1 kudos.
 ![schema](https://github.com/IllusionInk/personaldata/blob/master/assets/viz_schema_rgb-08.jpg)
 
 ##### Final Visualization
-The final output is an A0 sized print visualization.[full sized visualization](https://www.dropbox.com/s/089zozf6w49w1cl/Shifting_Gears_final.pdf?dl=0). 
+The final output is an A0 sized print visualization.[full sized visualization](https://easyzoom.com/image/125224). 
 
 ![snapshot](https://github.com/IllusionInk/personaldata/blob/master/assets/Viz_snapshot.png)
 
