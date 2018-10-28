@@ -1,7 +1,6 @@
 # Shifting Gears
-
-> The Visualisation has been selected for the [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase/3204-shifting-gears-visualizing-cycle-rides),2018 - Leisure, Sports, Games category.
 ![award](https://github.com/IllusionInk/personaldata/blob/master/assets/badge-01.jpg)
+The Visualisation has been selected for the [Information is Beautiful Awards](https://www.informationisbeautifulawards.com/showcase/3204-shifting-gears-visualizing-cycle-rides),2018 - Leisure, Sports, Games category.
 
 > As part of our Information Visualization-1 module, we were given an assignment in line with the ***DearData*** project by 'Stefanie Posavec' and 'Giorgia Lupi'. Design a layered visualization based on an area from our personal lives. 
 
