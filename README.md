@@ -40,11 +40,19 @@ Workout ride - 20kms/ 1 kudos.
 
 #### Initial Explorations
 - Since I wanted to analyze my cycling rides over the past months. I began drafting concepts for how a month would appear.
- - Considering the cycle and its parts as the background context, I decided to consider each month as a wheel and the bike rides during the month be depicted as the wheel spokes.
- - Further, I explored other bike parts to analogize with variables in my dataset (ride type, origin, destination, ride_nature etc.)
+- Considering the cycle and its parts as the background context, I decided to consider each month as a wheel and the bike rides during the month be depicted as the wheel spokes.
+- Further, I explored other bike parts to analogize with variables in my dataset (ride type, origin, destination, ride_nature etc.)
 
 ![sketch](https://github.com/IllusionInk/personaldata/blob/master/assets/initial_sketches.jpg)
-### Visualization (W.I.P.)
+
+### Visualization
+
+#### Code Renders
+- Having gained an idea of the viz. schema and layout, the initial set of renders were developed in Tableau.
+- I further visualized the same in Processing, to design for multiple months , considering the attributes.
+- Rotate+ Map functions were used to draw the spokes as lines from the moving origin to the desired end point.
+
+![processing_render](https://github.com/IllusionInk/personaldata/blob/master/assets/Cycle_Dataviz.jpg)
 
 ---
 ##### Schema
@@ -56,11 +64,11 @@ Workout ride - 20kms/ 1 kudos.
 - Tread Length - Kudos by the community (how the community appreciates my cycle rides).
 - Gear Icon - Achievement in the ride stages as measured by **Strava** *(gold: PR, silver: second best time, bronze: third best time)*.
  
-![schema](https://github.com/IllusionInk/personaldata/blob/master/assets/viz_schema_rgb-08.jpg)
+![schema](https://github.com/IllusionInk/personaldata/blob/master/assets/Viz.%20key.jpg)
 
 ##### Final Visualization
-The final output is an A0 sized print visualization.[full sized visualization](https://easyzoom.com/image/125224). 
-
+The final output is an A0 sized print visualization.[full sized visualization](https://easyzoom.com/imageaccess/c838c018f236419b984534e38e871de2). 
+![final_visualization](https://github.com/IllusionInk/personaldata/blob/master/assets/Final%20Viz..jpg)
 ![snapshot](https://github.com/IllusionInk/personaldata/blob/master/assets/Viz_snapshot.png)
 
 ### Tasks to be done
