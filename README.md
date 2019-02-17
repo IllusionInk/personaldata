@@ -80,7 +80,8 @@ The final output is an A0 sized print visualization.[full sized visualization](h
 ### Tools
 ---
 - **MS Excel** - Collating, cleaning the ride data and structuring it into the final required data framework.
-- **Tableau + RAW** - Basic intial plotting of the data to observe trends. Generating the required charts for the final visualization.
+- **Tableau + RAW** - Basic intial plotting of the data to observe trends. Generating the required charts for the trial run.
+- **Processing** - Rendering multiple Monthly charts for the years in the final visualisation.
 - **Illustrator** - Composing the rendered charts in the final layout. Adding annotations and insights to the visualization. Apart from this, I also designed the required glyphs *(brake pads for origin-destination, achievement icons, speed indicator)* in Illustrator.
 
 ### References
