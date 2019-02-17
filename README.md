@@ -46,7 +46,7 @@ Workout ride - 20kms/ 1 kudos.
 ![sketch](https://github.com/IllusionInk/personaldata/blob/master/assets/initial_sketches.jpg)
 
 ### Visualization
-
+---
 #### Code Renders
 - Having gained an idea of the viz. schema and layout, the initial set of renders were developed in Tableau.
 - I further visualized the same in Processing, to design for multiple months , considering the attributes.
@@ -54,7 +54,6 @@ Workout ride - 20kms/ 1 kudos.
 
 ![processing_render](https://github.com/IllusionInk/personaldata/blob/master/assets/Cycle_Dataviz.jpg)
 
----
 ##### Schema
 - Wheel Hub Size - Distance cycled in the month
 - Wheel Hub Cap - Pie chart depicting the share of cycle rides by distance.
